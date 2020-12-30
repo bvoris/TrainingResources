@@ -1,4 +1,4 @@
-# TrainingResources
+# Training Resources
 Links to free training resources
 
 
