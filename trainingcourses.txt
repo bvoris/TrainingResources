@@ -1,6 +1,9 @@
 Microsoft Learning Academy
 https://docs.microsoft.com/en-us/learn/
 
+Sophos Firewall Academy Series
+https://events.sophos.com/sophosxgfirewallacademyseries
+
 #Cyber colleagues: What new to add? (Will edit as we go!)
 
 Sans Cyber Aces https://www.cyberaces.org/
