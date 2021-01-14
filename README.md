@@ -2,18 +2,18 @@
 Links to free training resources
 Click on the individual links for access to free training, career planning, discord channels and content.<BR /><BR />
 
-Career Planning<BR /><BR />
-https://github.com/bvoris/TrainingResources/blob/main/CareerPlanning.txt<BR />
-Discord Channels<BR /><BR />
-https://github.com/bvoris/TrainingResources/blob/main/discordchannels.txt<BR />
-Free E-Books<BR /><BR />
-https://github.com/bvoris/TrainingResources/blob/main/freeebooks.txt<BR />
-Training Courses<BR /><BR />
-https://github.com/bvoris/TrainingResources/blob/main/trainingcourses.txt<BR />
-Youtube Videos and Subscriptions<BR /><BR />
-https://github.com/bvoris/TrainingResources/blob/main/youtubevideos.txt<BR />
-RSS Feeds<BR /><BR />
-https://github.com/bvoris/RSSFeeds<BR />
+Career Planning<BR />
+https://github.com/bvoris/TrainingResources/blob/main/CareerPlanning.txt<BR /><BR />
+Discord Channels<BR />
+https://github.com/bvoris/TrainingResources/blob/main/discordchannels.txt<BR /><BR />
+Free E-Books<BR />
+https://github.com/bvoris/TrainingResources/blob/main/freeebooks.txt<BR /><BR />
+Training Courses<BR />
+https://github.com/bvoris/TrainingResources/blob/main/trainingcourses.txt<BR /><BR />
+Youtube Videos and Subscriptions<BR />
+https://github.com/bvoris/TrainingResources/blob/main/youtubevideos.txt<BR /><BR />
+RSS Feeds<BR />
+https://github.com/bvoris/RSSFeeds<BR /><BR />
 
 ## Connect with me at
 
