@@ -47,3 +47,9 @@ AWS: (* Filter "#security" 16 courses!) https://workshops.aws/
 KnowBe4 ☆ Social media https://lnkd.in/g-D6g3d ☆ Cyber HomeCourse (pw=homecourse) https://lnkd.in/g9PTPZM
 
 Also #NIST Framework: https://lnkd.in/fwj2EEg
+
+CISSPTraining - My repo for CISSP Training Material
+https://github.com/bvoris/CISSPTraining
+
+CCSKTraining - My repo for CCSK Training Material
+https://github.com/bvoris/CCSKTraining
