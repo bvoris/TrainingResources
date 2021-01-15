@@ -2,6 +2,15 @@
 Links to free training resources<BR />
 Click on the individual links for access to free training, career planning, discord channels and content.<BR /><BR />
 
+<img alt="GitHub" src="https://img.shields.io/github/license/bvoris/ITILTraining">
+<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/bvoris/ITILTraining">
+<img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/bvoris/ITILTraining/total">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/bvoris/ITILTraining">
+<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/bvoris/ITILTraining">
+<img alt="GitHub issues" src="https://img.shields.io/github/issues/bvoris/ITILTraining">
+<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/bvoris/ITILTraining">
+ 
+
 Career Planning<BR />
 https://github.com/bvoris/TrainingResources/blob/main/CareerPlanning.txt<BR /><BR />
 Discord Channels<BR />
