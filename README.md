@@ -15,7 +15,7 @@ https://github.com/bvoris/TrainingResources/blob/main/youtubevideos.txt<BR /><BR
 RSS Feeds<BR />
 https://github.com/bvoris/RSSFeeds<BR /><BR />
 
-Special Thanks to the following for providing content:<BR />
+# Special Thanks to the following for providing content:<BR />
 https://noxcyber.co.uk/<BR /><BR />
 
 Jay Jay Davey<BR />
