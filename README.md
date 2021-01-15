@@ -16,6 +16,7 @@ RSS Feeds<BR />
 https://github.com/bvoris/RSSFeeds<BR /><BR />
 
 # Special Thanks to the following for providing content:<BR />
+NoxCyber<BR />
 https://noxcyber.co.uk/<BR /><BR />
 
 Jay Jay Davey<BR />
