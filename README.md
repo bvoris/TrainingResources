@@ -15,6 +15,15 @@ https://github.com/bvoris/TrainingResources/blob/main/youtubevideos.txt<BR /><BR
 RSS Feeds<BR />
 https://github.com/bvoris/RSSFeeds<BR /><BR />
 
+Special Thanks to the following for providing content:<BR />
+https://noxcyber.co.uk/<BR /><BR />
+
+Jay Jay Davey<BR />
+https://www.linkedin.com/in/noxcyber/<BR /><BR />
+
+Chris Huges<BR />
+https://www.linkedin.com/in/chris-h-97680442/<BR /><BR />
+
 ## Connect with me at
 
 <a href="https://twitter.com/HMInfoSecViking?ref_src=twsrc%5Etfw"><IMG SRC="https://github.com/bvoris/bvoris/blob/master/twitter.jpg" WIDTH=10% HEIGHT=10% ALIGN=LEFT></a>
