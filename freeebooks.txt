@@ -7,5 +7,3 @@ https://docs.microsoft.com/en-us/archive/blogs/mssmallbiz/free-thats-right-im-gi
 Huge Repo of old Security, Networking, Development, Hacking, and Technology E-Books
 http://index-of.es/
 
-Misc Red Team and Penetration Testing E-books Provided by Szilamer Gyorgy https://www.linkedin.com/in/szilamer-gyorgy/
-https://drive.google.com/drive/u/0/folders/1YxjwwyVvqBAvKIT5RUFZoUd9tfXr7hCv
