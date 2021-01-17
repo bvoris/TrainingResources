@@ -22,6 +22,8 @@ Youtube Videos and Subscriptions<BR />
 https://github.com/bvoris/TrainingResources/blob/main/youtubevideos.txt<BR /><BR />
 RSS Feeds<BR />
 https://github.com/bvoris/RSSFeeds<BR /><BR />
+Recruiter Resources<BR />
+https://github.com/bvoris/TrainingResources/blob/main/recruiterresources.txt<BR /><BR />
 
 # Special Thanks to the following for providing content:<BR />
 NoxCyber<BR />
