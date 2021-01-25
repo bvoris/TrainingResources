@@ -1,96 +1,96 @@
-Free Online Training Courses
+Name: Free Online Training Courses
+Description: Free online training courses
 -----------------------------------------
 
 General IT Training Course
 -----------------------------------------
-Microsoft Learning Academy
-https://docs.microsoft.com/en-us/learn/
+Name: Microsoft Learning Academy
+Link: https://docs.microsoft.com/en-us/learn/
 
-ITILTraining - My repo for ITIL Training Material
-https://github.com/bvoris/ITILTraining
+Name: ITILTraining - My repo for ITIL Training Material
+Link: https://github.com/bvoris/ITILTraining
 
 Firewall Training Courses
 -----------------------------------------
-Sophos Firewall Academy Series
-https://events.sophos.com/sophosxgfirewallacademyseries
+Name: Sophos Firewall Academy Series
+Link: https://events.sophos.com/sophosxgfirewallacademyseries
 
-Fortinet Firewall Training Institute
-https://training.fortinet.com/auth/saml2/selectidp.php
+Name: Fortinet Firewall Training Institute
+Link: https://training.fortinet.com/auth/saml2/selectidp.php
 
 Cyber Security and Information Security Training Courses
 -----------------------------------------
-Sans Cyber Aces 
-https://www.cyberaces.org/
+Name: Sans Cyber Aces 
+Link: https://www.cyberaces.org/
 
-Cybrary 
-https://www.cybrary.it/
+Name: Cybrary 
+Link: https://www.cybrary.it/
 
-US Dept of Homeland Security 
-https://lnkd.in/f847cCk
+Name: US Dept of Homeland Security 
+Link: https://lnkd.in/f847cCk
 
-Open Security 
-https://lnkd.in/ff7c-fk
+Name: Open Security 
+Link: https://lnkd.in/ff7c-fk
 
-Udemy (Free)
-Cyber Security Law 
-https://lnkd.in/ftkzuhP
+Name: Udemy (Free) Cyber Security Law 
+Link: https://lnkd.in/ftkzuhP
 
-Intro Cybersecurity 
-https://lnkd.in/frrxP7N
+Name: Intro Cybersecurity 
+Link: https://lnkd.in/frrxP7N
 
-Future Learn - Intro Cybersec 
-https://lnkd.in/frYxbqd
+Name: Future Learn - Intro Cybersec 
+Link: https://lnkd.in/frYxbqd
 
-Heimdal 
-https://lnkd.in/fKaGrv8
+Name: Heimdal 
+Link: https://lnkd.in/fKaGrv8
 
-Coursera 
-https://lnkd.in/f852BiH
+Name: Coursera 
+Link: https://lnkd.in/f852BiH
 
-MOOCs 
-https://lnkd.in/f3eambQ
+Name: MOOCs 
+Link: https://lnkd.in/f3eambQ
 
-Inteligenca Inc. - 100 Women in 100 Days Accelerator 
-https://lnkd.in/gqWPByE
+Name: Inteligenca Inc. - 100 Women in 100 Days Accelerator 
+Link: https://lnkd.in/gqWPByE
 
-Mosse Security:
-https://lnkd.in/fxv9qsA
+Name: Mosse Security:
+Link: https://lnkd.in/fxv9qsA
 
-☆ 65 Free Exercises 
-https://lnkd.in/fmEnrJx 
+Name: ☆ 65 Free Exercises 
+Link: https://lnkd.in/fmEnrJx 
 
-☆ Cyber Awareness 
-https://lnkd.in/ftx9TP2
+Name: ☆ Cyber Awareness 
+Link: https://lnkd.in/ftx9TP2
 
-Charles Sturt 
-https://lnkd.in/fUkydVi
+Name: Charles Sturt 
+Link: https://lnkd.in/fUkydVi
 
-Wizer Awareness 
-https://lnkd.in/fzyuy2w
+Name: Wizer Awareness 
+Link: https://lnkd.in/fzyuy2w
 
-Edx 
-https://lnkd.in/fAWXNaE
+Name: Edx 
+Link: https://lnkd.in/fAWXNaE
 
-AttackIQ Academy 
-https://lnkd.in/gcZWVqw
+Name: AttackIQ Academy 
+Link: https://lnkd.in/gcZWVqw
 
-AWS: (* Filter "#security" 16 courses!) 
-https://workshops.aws/
+Name: AWS: (* Filter "#security" 16 courses!) 
+Link: https://workshops.aws/
 
-KnowBe4 ☆ Social media https://lnkd.in/g-D6g3d ☆ Cyber HomeCourse (pw=homecourse) 
-https://lnkd.in/g9PTPZM
+Name: KnowBe4 ☆ Social media https://lnkd.in/g-D6g3d ☆ Cyber HomeCourse (pw=homecourse) 
+Link: https://lnkd.in/g9PTPZM
 
-Also #NIST Framework: 
-https://lnkd.in/fwj2EEg
+Name: Also #NIST Framework: 
+Link: https://lnkd.in/fwj2EEg
 
-CISSPTraining - My repo for CISSP Training Material
-https://github.com/bvoris/CISSPTraining
+Name: CISSPTraining - My repo for CISSP Training Material
+Link: https://github.com/bvoris/CISSPTraining
 
-CCSKTraining - My repo for CCSK Training Material
-https://github.com/bvoris/CCSKTraining
+Name: CCSKTraining - My repo for CCSK Training Material
+Link: https://github.com/bvoris/CCSKTraining
 
-FedVTE Federal Virtual Training Environment
-https://fedvte.usalearning.gov/
+Name: FedVTE Federal Virtual Training Environment
+Link: https://fedvte.usalearning.gov/
 
-FEMA Emergency Management Institue Training
-https://training.fema.gov/is/crslist.aspx
+Name: FEMA Emergency Management Institue Training
+Link: https://training.fema.gov/is/crslist.aspx
