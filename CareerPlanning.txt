@@ -2,11 +2,14 @@ Name: Cyber Security Career Planning Pathways:
 Description: Cyber Security Career Planning Pathways, documentation and links
 -----------------------------------------
 
-CISA Career Pathway
-https://niccs.cisa.gov/workforce-development/cyber-career-pathways
+Name: CISA Career Pathway
+Description:
+Link: https://niccs.cisa.gov/workforce-development/cyber-career-pathways
 
-CyberSeek Career Pathway
-https://www.cyberseek.org/pathway.html
+Name: CyberSeek Career Pathway
+Description: 
+Link: https://www.cyberseek.org/pathway.html
 
-Mindmap Cyber Security Planning
-https://rafeeqrehman.com/wp-content/uploads/2020/06/CISO_Job_MindMap_Rafeeq_Rehman_v_2020.pdf
+Name: Mindmap Cyber Security Planning
+Description: 
+Link: https://rafeeqrehman.com/wp-content/uploads/2020/06/CISO_Job_MindMap_Rafeeq_Rehman_v_2020.pdf
