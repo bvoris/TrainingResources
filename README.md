@@ -11,22 +11,31 @@ Click on the individual links for access to free training, career planning, disc
  
 
 Name: Career Planning<BR />
+Description: <BR />
 https://github.com/bvoris/TrainingResources/blob/main/CareerPlanning.txt<BR /><BR />
 Name: Discord Channels<BR />
+Description: <BR />
 https://github.com/bvoris/TrainingResources/blob/main/discordchannels.txt<BR /><BR />
 Name: Free E-Books<BR />
+Description: <BR />
 https://github.com/bvoris/TrainingResources/blob/main/freeebooks.txt<BR /><BR />
 Name: Training Courses<BR />
+Description: <BR />
 https://github.com/bvoris/TrainingResources/blob/main/trainingcourses.txt<BR /><BR />
 Name: Youtube Videos and Subscriptions<BR />
+Description: <BR />
 https://github.com/bvoris/TrainingResources/blob/main/youtubevideos.txt<BR /><BR />
 Name: RSS Feeds<BR />
+Description: <BR />
 https://github.com/bvoris/RSSFeeds<BR /><BR />
 Name: Recruiter Resources<BR />
+Description: <BR />
 https://github.com/bvoris/TrainingResources/blob/main/recruiterresources.txt<BR /><BR />
 Name: Professional Affiliation Resources<BR />
+Description: <BR />
 https://github.com/bvoris/TrainingResources/blob/main/affiliationorganizations.txt<BR /><BR />
 Name: Online Tools and Resources<BR />
+Description: <BR />
 https://github.com/bvoris/TrainingResources/blob/main/onlinetools.txt<BR /><BR />
 
 # Special Thanks to the following for providing content:<BR />
