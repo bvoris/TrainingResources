@@ -14,6 +14,9 @@ Firewall Training Courses
 Sophos Firewall Academy Series
 https://events.sophos.com/sophosxgfirewallacademyseries
 
+Fortinet Firewall Training Institute
+https://training.fortinet.com/auth/saml2/selectidp.php
+
 Cyber Security and Information Security Training Courses
 -----------------------------------------
 Sans Cyber Aces 
