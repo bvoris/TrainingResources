@@ -11,3 +11,6 @@ http://index-of.es/
 
 Designing and deploying a data security strategy with Google Cloud
 https://services.google.com/fh/files/misc/designing_and_deploying_data_security_strategy.pdf
+
+SANS Getting Started in Cybersecurity with a non technical background
+https://www.sans.org/security-awareness-training/blog/getting-started-cybersecurity-non-technical-background
