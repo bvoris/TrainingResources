@@ -70,6 +70,10 @@ Name: Fireeye Cyber Threat Map
 Description: Fireeye Cyber Threat Map
 Link: https://www.fireeye.com/cyber-map/threat-map.html
 
+Name: Spamhaus Live Botnet Threats
+Description: The IP address locations of servers used to control computers infected with malware
+Link: https://www.spamhaus.com/threat-map/
+
 Misc tools:
 -----------------------------------------
 Name: Submarine Cable Map
