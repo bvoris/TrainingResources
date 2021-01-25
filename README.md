@@ -20,16 +20,16 @@ Name: Free E-Books<BR />
 Description: Free E-Books from manufacturers and vendors<BR />
 Link: https://github.com/bvoris/TrainingResources/blob/main/freeebooks.txt<BR /><BR />
 Name: Training Courses<BR />
-Description: <BR />
+Description: Free online training courses<BR />
 Link: https://github.com/bvoris/TrainingResources/blob/main/trainingcourses.txt<BR /><BR />
 Name: Youtube Videos and Subscriptions<BR />
-Description: <BR />
+Description: Youtube Videos and Subscriptions<BR />
 Link: https://github.com/bvoris/TrainingResources/blob/main/youtubevideos.txt<BR /><BR />
 Name: RSS Feeds<BR />
-Description: <BR />
+Description: Security RSS Feeds<BR />
 Link: https://github.com/bvoris/RSSFeeds<BR /><BR />
 Name: Recruiter Resources<BR />
-Description: <BR />
+Description: Recruiter Resources<BR />
 Link: https://github.com/bvoris/TrainingResources/blob/main/recruiterresources.txt<BR /><BR />
 Name: Professional Affiliation Resources<BR />
 Description: These are organizations that security professionals join for collaboration and career development<BR />
