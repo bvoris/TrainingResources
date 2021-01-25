@@ -1,3 +1,7 @@
+Name: Discord Channels
+Description: Links to misc security discord channels
+-----------------------------------------
+
 Provided by: Jay Jay Davey & https://noxcyber.co.uk/ 
 
 ** SecurityBlueTeam **
