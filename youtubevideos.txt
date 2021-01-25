@@ -19,6 +19,10 @@ Name: High Education Information Security Council
 Description:  High Education Information Security Council
 Link: https://www.youtube.com/channel/UC849gFVzg2rL_ImWqQ1ePIA
 
+Name: Hak5
+Description:
+Link: https://www.youtube.com/channel/UC3s0BtrBJpwNDaflRSoiieQ
+
 Name: Fortinet
 Description: Fortinet firewalls
 Link: https://www.youtube.com/channel/UCJHo4AuVomwMRzgkA5DQEOA
