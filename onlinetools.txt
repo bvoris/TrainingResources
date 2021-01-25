@@ -96,6 +96,10 @@ Name: ImmuniWeb
 Description: Security Website scanning
 Link: https://www.immuniweb.com/websec/
 
+Name: Security Headers
+Description: Scan your website for misconfigurations
+Link: https://securityheaders.com/
+
 Misc tools:
 -----------------------------------------
 Name: Submarine Cable Map
