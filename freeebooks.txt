@@ -1,16 +1,23 @@
-Free E-Books from manufacturers and vendors
+Name: Free Ebooks
+Descriptions: Free E-Books from manufacturers and vendors
+-----------------------------------------
 
-Microsoft Cloud App Security
-https://docs.microsoft.com/en-us/cloud-app-security/e-books
+Name: Microsoft Cloud App Security
+Description: 
+Link: https://docs.microsoft.com/en-us/cloud-app-security/e-books
 
-Large repository of Microsft Ebooks
-https://docs.microsoft.com/en-us/archive/blogs/mssmallbiz/free-thats-right-im-giving-away-millions-of-free-microsoft-ebooks-again-including-windows-10-office-365-office-2016-power-bi-azure-windows-8-1-office-2013-sharepoint-2016-sha
+Name: Large repository of Microsft Ebooks
+Description: 
+Link: https://docs.microsoft.com/en-us/archive/blogs/mssmallbiz/free-thats-right-im-giving-away-millions-of-free-microsoft-ebooks-again-including-windows-10-office-365-office-2016-power-bi-azure-windows-8-1-office-2013-sharepoint-2016-sha
 
-Huge Repo of old Security, Networking, Development, Hacking, and Technology E-Books
-http://index-of.es/
+Name: Huge Repo of old Security, Networking, Development, Hacking, and Technology E-Books
+Description: 
+Link: http://index-of.es/
 
-Designing and deploying a data security strategy with Google Cloud
-https://services.google.com/fh/files/misc/designing_and_deploying_data_security_strategy.pdf
+Name: Designing and deploying a data security strategy with Google Cloud
+Description: 
+Link: https://services.google.com/fh/files/misc/designing_and_deploying_data_security_strategy.pdf
 
-SANS Getting Started in Cybersecurity with a non technical background
-https://www.sans.org/security-awareness-training/blog/getting-started-cybersecurity-non-technical-background
+Name: SANS Getting Started in Cybersecurity with a non technical background
+Description: 
+Link: https://www.sans.org/security-awareness-training/blog/getting-started-cybersecurity-non-technical-background
