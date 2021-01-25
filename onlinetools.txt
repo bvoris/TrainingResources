@@ -1,0 +1,29 @@
+Name: online tools
+Description: 
+-----------------------------------------
+
+Network tools:
+-----------------------------------------
+Name: Easy Who Is
+Description: DNS / IP look up
+Link: https://www.easywhois.com/
+
+Name: MX Toolbox
+Description: MX and DNS record lookup, Blacklist look up
+Link: https://mxtoolbox.com/
+
+Name: The Internet Health Test
+Description: The Internet Health Test checks your connection for signs of any degradation at all. With enough people taking part around the country every day, we can make sure that ISPs don't get away with breaking the rules.
+Link: https://www.battleforthenet.com/internethealthtest/
+
+Name: Akamai Real Time Threat Monitor
+Description: This real-time visualization shows the phishing, malware, and command & control threats that Akamai is blocking (for customers) through its Intelligent Platform and its unprecedented insights into DNS and IP traffic.
+Link: https://www.akamai.com/us/en/resources/visualizing-akamai/
+
+Name: UltraTools
+DescriptionL: Free Domain, DNS, Whois and IP tool kit
+Link: https://www.ultratools.com/
+
+Name: Pingdom Website Speed Test
+Description: Enter a URL to test the page load time, analyze it, and find bottlenecks.
+Link: https://tools.pingdom.com/
