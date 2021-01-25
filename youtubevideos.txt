@@ -3,61 +3,83 @@ Collection of Youtube Training Videos and Channels
 
 Cyber Security and Information Security Videos
 -----------------------------------------
-Data Protection Diaries
-https://www.youtube.com/channel/UCBSXiWErH8-J0jc1_42ERIA
+Name: Data Protection Diaries
+Description: 
+Link: https://www.youtube.com/channel/UCBSXiWErH8-J0jc1_42ERIA
 
-Null Byte Channel - Red teaming, Penetration testing and hacking
-https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g
+Name: Null Byte Channel - Red teaming, Penetration testing and hacking
+Description: 
+Link: https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g
 
-Brad Voris Youtube Channel - I don't upload content much
-https://www.youtube.com/channel/UCz2dFZDqAz6cnyEWRi3YiMQ
+Name: Brad Voris Youtube Channel 
+Description: 
+Link: https://www.youtube.com/channel/UCz2dFZDqAz6cnyEWRi3YiMQ
 
-High Education Information Security Council
-https://www.youtube.com/channel/UC849gFVzg2rL_ImWqQ1ePIA
+Name: High Education Information Security Council
+Description:  High Education Information Security Council
+Link: https://www.youtube.com/channel/UC849gFVzg2rL_ImWqQ1ePIA
 
-Fortinet
-https://www.youtube.com/channel/UCJHo4AuVomwMRzgkA5DQEOA
+Name: Fortinet
+Description: Fortinet firewalls
+Link: https://www.youtube.com/channel/UCJHo4AuVomwMRzgkA5DQEOA
 
-Krebs on Security
-https://www.youtube.com/channel/UCkN47Orx3Zs0tMqxToeXe5g
+Name: Krebs on Security
+Description: Krebs on Security
+Link: https://www.youtube.com/channel/UCkN47Orx3Zs0tMqxToeXe5g
 
-SANS
-https://www.youtube.com/channel/UCS9bnBE8KUcTUDqUZ7PKMgw
+Name: SANS
+Description: SANS training
+Link: https://www.youtube.com/channel/UCS9bnBE8KUcTUDqUZ7PKMgw
 
-IBM Cloud
-https://www.youtube.com/channel/UCKWaEZ-_VweaEx1j62do_vQ
+Name: IBM Cloud
+Description: IBM Cloud
+Link: https://www.youtube.com/channel/UCKWaEZ-_VweaEx1j62do_vQ
 
 Hardware and Systems Videos
 -----------------------------------------
-NetwortedMinds - Microsoft Server Training Videos
-https://www.youtube.com/channel/UCeVrfhkhj9aQaXW_N4-lmpA
+Name: NetwortedMinds - Microsoft Server Training Videos
+Description: Microsoft Server Training Videos
+Link: https://www.youtube.com/channel/UCeVrfhkhj9aQaXW_N4-lmpA
 
-Networking Forums
-https://www.youtube.com/channel/UCmwKLdTC3hJxtk1jMl8SvcA
+Name: Networking Forums
+Description: Networking Forums
+Link: https://www.youtube.com/channel/UCmwKLdTC3hJxtk1jMl8SvcA
 
-Engineering Explained Channel - Hardware
-https://www.youtube.com/channel/UClqhvGmHcvWL9w3R48t9QXQ
+Name: Engineering Explained Channel - Hardware
+Description: Engineering Explained Channel - Hardware
+Link: https://www.youtube.com/channel/UClqhvGmHcvWL9w3R48t9QXQ
 
-Jan Beta - oldschool systems repair
-https://www.youtube.com/c/JanBeta
+Name: Jan Beta - oldschool systems repair
+Description: oldschool systems repair
+Link: https://www.youtube.com/c/JanBeta
 
-HDD Recovery Services
-https://www.youtube.com/c/hddrecoveryservices/
+Name: HDD Recovery Services
+Description: HDD Recovery Services
+Link: https://www.youtube.com/c/hddrecoveryservices/
 
-Commodore4Ever - oldschool systems repair
-https://www.youtube.com/channel/UCqUVpYJcxsRvbWKaAR0yctg
+Name: Commodore4Ever - oldschool systems repair
+Description: oldschool systems repair
+Link: https://www.youtube.com/channel/UCqUVpYJcxsRvbWKaAR0yctg
 
-Adrian's Digital Basement - oldschool systems repair
-https://www.youtube.com/channel/UCE5dIscvDxrb7CD5uiJJOiw
+Name: Adrian's Digital Basement - oldschool systems repair
+Description: oldschool systems repair
+Link: https://www.youtube.com/channel/UCE5dIscvDxrb7CD5uiJJOiw
 
-The 8-Bit Guy - oldschool systems repair
-https://www.youtube.com/channel/UC8uT9cgJorJPWu7ITLGo9Ww
+Name: The 8-Bit Guy - oldschool systems repair
+Description: oldschool systems repair
+Link: https://www.youtube.com/channel/UC8uT9cgJorJPWu7ITLGo9Ww
 
 Software Development Videos
 -----------------------------------------
-Microsoft Developer
-https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g
+Name: Microsoft Developer
+Description: Microsoft Developer
+Link: https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g
 
+IT Career Planning
+-----------------------------------------
+Name: IT Career Planning
+Description: IT Career Planning
+Link: https://www.youtube.com/channel/UCt-Pwe2fODjH4Wuwf5VqE7A/videos
 
 
 
