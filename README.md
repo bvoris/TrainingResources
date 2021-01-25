@@ -26,6 +26,8 @@ Recruiter Resources<BR />
 https://github.com/bvoris/TrainingResources/blob/main/recruiterresources.txt<BR /><BR />
 Professional Affiliation Resources<BR />
 https://github.com/bvoris/TrainingResources/blob/main/affiliationorganizations.txt<BR /><BR />
+Online Tools and Resources<BR />
+https://github.com/bvoris/TrainingResources/blob/main/onlinetools.txt<BR /><BR />
 
 # Special Thanks to the following for providing content:<BR />
 NoxCyber<BR />
