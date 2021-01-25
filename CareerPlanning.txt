@@ -1,4 +1,7 @@
-Cyber Security Career Planning Pathways:
+Name: Cyber Security Career Planning Pathways:
+Description: Cyber Security Career Planning Pathways, documentation and links
+-----------------------------------------
+
 CISA Career Pathway
 https://niccs.cisa.gov/workforce-development/cyber-career-pathways
 
