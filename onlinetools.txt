@@ -27,3 +27,17 @@ Link: https://www.ultratools.com/
 Name: Pingdom Website Speed Test
 Description: Enter a URL to test the page load time, analyze it, and find bottlenecks.
 Link: https://tools.pingdom.com/
+
+Name: IP Subnet Calculator
+Description: ipcalc takes an IP address and netmask and calculates the resulting broadcast, network, Cisco wildcard mask, and host range. By giving a second netmask, you can design subnets and supernets. It is also intended to be a teaching tool and presents the subnetting results as easy-to-understand binary values.
+Link: http://jodies.de/ipcalc
+
+Name: Subnet Calculator
+Description: Tunnelup Subnet Calculator
+Link: https://www.tunnelsup.com/subnet-calculator/
+
+Misc tools:
+-----------------------------------------
+Name: Submarine Cable Map
+Description: The Submarine Cable Map is a free and regularly updated resource from TeleGeography.
+Link: https://www.submarinecablemap.com/
