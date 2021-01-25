@@ -74,6 +74,14 @@ Name: Spamhaus Live Botnet Threats
 Description: The IP address locations of servers used to control computers infected with malware
 Link: https://www.spamhaus.com/threat-map/
 
+Name: Bitdefender Cyberthreat Real-time map
+Description: Bitdefender Cyberthreat Real-time map
+Link: https://threatmap.bitdefender.com/
+
+Name: Sonicwall Security Center
+Description: Sonicwall Security Center
+Link: https://securitycenter.sonicwall.com/m/page/worldwide-attacks
+
 Misc tools:
 -----------------------------------------
 Name: Submarine Cable Map
