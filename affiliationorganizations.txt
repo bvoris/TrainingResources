@@ -1,0 +1,31 @@
+Name: Affiliation Organizations
+Description: These are organizations that security professionals join for collaboration and career development
+-----------------------------------------
+
+Name: SANS
+Description:
+Link: https://www.sans.org
+
+Name: ISC2
+Description: (ISC)² is an international, nonprofit membership association for information security leaders like you. We’re committed to helping our members learn, grow and thrive. More than 150,000 certified members strong, we empower professionals who touch every aspect of information security. 
+Link: https://www.isc2.org/
+
+Name: InfraGard
+Description: InfraGard is a partnership between the Federal Bureau of Investigation (FBI) and members of the private sector for the protection of U.S. Critical Infrastructure.
+Link: https://www.infragard.org/
+
+Name: Cloud Security Alliance
+Description:
+Link: 
+
+Name: ISACA
+Description: ISACA is an international professional association focused on IT governance. On its IRS filings, it is known as the Information Systems Audit and Control Association, although ISACA now goes by its acronym only.
+Link:
+
+Name: I.E.E.E Institute of Electrical and Electronics Engineers
+Description:
+Link: https://www.ieee.org
+
+Name: Microsoft Technet
+Description:
+Link: https://docs.microsoft.com/en-us/?redirectedfrom=MSDN
