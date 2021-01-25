@@ -20,7 +20,7 @@ Description:  High Education Information Security Council
 Link: https://www.youtube.com/channel/UC849gFVzg2rL_ImWqQ1ePIA
 
 Name: Hak5
-Description:
+Description: Founded in 2005, Hak5's mission is to advance the InfoSec industry. We do this through our award winning podcasts, leading pentest gear, and inclusive community – where all hackers belong.
 Link: https://www.youtube.com/channel/UC3s0BtrBJpwNDaflRSoiieQ
 
 Name: Fortinet
