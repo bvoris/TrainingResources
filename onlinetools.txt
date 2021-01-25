@@ -82,6 +82,20 @@ Name: Sonicwall Security Center
 Description: Sonicwall Security Center
 Link: https://securitycenter.sonicwall.com/m/page/worldwide-attacks
 
+Online Scanning and Penetration tools:
+-----------------------------------------
+Name: Shodan.io
+Description: Search engine for the internet of things and respository of current online IP metadata
+Link: https://www.shodan.io
+
+Name: Pentest-Tools
+Description: Pentest-Tools.com allows you to quickly discover and report vulnerabilities in websites and network infrastructures. We provide a set of powerful and tightly integrated pentesting tools which enable you to perform easier, faster and more effective pentest engagements.
+Link: https://pentest-tools.com/home
+
+Name: ImmuniWeb
+Description: Security Website scanning
+Link: https://www.immuniweb.com/websec/
+
 Misc tools:
 -----------------------------------------
 Name: Submarine Cable Map
