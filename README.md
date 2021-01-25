@@ -11,13 +11,13 @@ Click on the individual links for access to free training, career planning, disc
  
 
 Name: Career Planning<BR />
-Description: <BR />
+Description: Cyber Security Career Planning Pathways, documentation and links<BR />
 Link: https://github.com/bvoris/TrainingResources/blob/main/CareerPlanning.txt<BR /><BR />
 Name: Discord Channels<BR />
-Description: <BR />
+Description: Links to misc security discord channels<BR />
 Link: https://github.com/bvoris/TrainingResources/blob/main/discordchannels.txt<BR /><BR />
 Name: Free E-Books<BR />
-Description: <BR />
+Description: Free E-Books from manufacturers and vendors<BR />
 Link: https://github.com/bvoris/TrainingResources/blob/main/freeebooks.txt<BR /><BR />
 Name: Training Courses<BR />
 Description: <BR />
@@ -32,10 +32,10 @@ Name: Recruiter Resources<BR />
 Description: <BR />
 Link: https://github.com/bvoris/TrainingResources/blob/main/recruiterresources.txt<BR /><BR />
 Name: Professional Affiliation Resources<BR />
-Description: <BR />
+Description: These are organizations that security professionals join for collaboration and career development<BR />
 Link: https://github.com/bvoris/TrainingResources/blob/main/affiliationorganizations.txt<BR /><BR />
 Name: Online Tools and Resources<BR />
-Description: <BR />
+Description: various online tools for networking, security, etc.<BR />
 Link: https://github.com/bvoris/TrainingResources/blob/main/onlinetools.txt<BR /><BR />
 
 # Special Thanks to the following for providing content:<BR />
