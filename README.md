@@ -10,23 +10,23 @@ Click on the individual links for access to free training, career planning, disc
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/bvoris/TrainingResources">
  
 
-Career Planning<BR />
+Name: Career Planning<BR />
 https://github.com/bvoris/TrainingResources/blob/main/CareerPlanning.txt<BR /><BR />
-Discord Channels<BR />
+Name: Discord Channels<BR />
 https://github.com/bvoris/TrainingResources/blob/main/discordchannels.txt<BR /><BR />
-Free E-Books<BR />
+Name: Free E-Books<BR />
 https://github.com/bvoris/TrainingResources/blob/main/freeebooks.txt<BR /><BR />
-Training Courses<BR />
+Name: Training Courses<BR />
 https://github.com/bvoris/TrainingResources/blob/main/trainingcourses.txt<BR /><BR />
-Youtube Videos and Subscriptions<BR />
+Name: Youtube Videos and Subscriptions<BR />
 https://github.com/bvoris/TrainingResources/blob/main/youtubevideos.txt<BR /><BR />
-RSS Feeds<BR />
+Name: RSS Feeds<BR />
 https://github.com/bvoris/RSSFeeds<BR /><BR />
-Recruiter Resources<BR />
+Name: Recruiter Resources<BR />
 https://github.com/bvoris/TrainingResources/blob/main/recruiterresources.txt<BR /><BR />
-Professional Affiliation Resources<BR />
+Name: Professional Affiliation Resources<BR />
 https://github.com/bvoris/TrainingResources/blob/main/affiliationorganizations.txt<BR /><BR />
-Online Tools and Resources<BR />
+Name: Online Tools and Resources<BR />
 https://github.com/bvoris/TrainingResources/blob/main/onlinetools.txt<BR /><BR />
 
 # Special Thanks to the following for providing content:<BR />
