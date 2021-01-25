@@ -66,6 +66,10 @@ Name: Sophos Threat Tracking
 Description: Our SophosLabs analysts monitor and research malware, spam and web threats as they happen, around the globe. We collect what we know in these dashboards, and update them constantly as we detect new threats. You'll find threats itemized by country, volume and prevalence. Our dashboards help you figure out exactly what you're up against—and how to fix it.
 Link: https://www.sophos.com/en-us/threat-center/threat-monitoring/threatdashboard.aspx
 
+Name: Fireeye Cyber Threat Map
+Description: Fireeye Cyber Threat Map
+Link: https://www.fireeye.com/cyber-map/threat-map.html
+
 Misc tools:
 -----------------------------------------
 Name: Submarine Cable Map
