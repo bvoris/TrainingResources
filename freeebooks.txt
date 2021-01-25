@@ -9,3 +9,5 @@ https://docs.microsoft.com/en-us/archive/blogs/mssmallbiz/free-thats-right-im-gi
 Huge Repo of old Security, Networking, Development, Hacking, and Technology E-Books
 http://index-of.es/
 
+Designing and deploying a data security strategy with Google Cloud
+https://services.google.com/fh/files/misc/designing_and_deploying_data_security_strategy.pdf
