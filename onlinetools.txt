@@ -36,6 +36,36 @@ Name: Subnet Calculator
 Description: Tunnelup Subnet Calculator
 Link: https://www.tunnelsup.com/subnet-calculator/
 
+Security Threat Maps:
+-----------------------------------------
+Name: Digital Attack Map
+Description: This map is devoted to tracking down attack episodes related to DDoS attacks around the world.
+Link: https://www.digitalattackmap.com/#anim=1&color=0&country=ALL&list=0&time=17164&view=map
+
+Name: Check Point Live Cyber Threat Map
+Description: ThreatCloud displays live stats, which include new attacks, the source of the attacks, and their various destinations. Another interesting feature is the “Top targets by country” feature, which offers threat stats for the past week and month, as well as the average infection rate and percentage of most frequent attack sources for some countries.
+Link: https://threatmap.checkpoint.com/
+
+Name: Kapersky real-time Threat Map
+Description: cyber threat map is one of the most comprehensive maps available, and it also serves as the best when it comes to graphical interface. It also looks amazingly sleek, although of course, what it signifies is Internet devastation.
+Link: https://cybermap.kaspersky.com/
+
+Name: Fortinet Threat Map
+Description:
+Link: https://threatmap.fortiguard.com/
+
+Name: Looking Glass Cyber Threat Map
+Description: Botnet Attack threat maps
+Link: https://map.lookingglasscyber.com/
+
+Name: Threatbutt Internet Hacking Attack Attribution Map
+Description: 1980s Green Screen terminal of attacks
+Link: https://threatbutt.com/map/
+
+Name: Sophos Threat Tracking
+Description: Our SophosLabs analysts monitor and research malware, spam and web threats as they happen, around the globe. We collect what we know in these dashboards, and update them constantly as we detect new threats. You'll find threats itemized by country, volume and prevalence. Our dashboards help you figure out exactly what you're up against—and how to fix it.
+Link: https://www.sophos.com/en-us/threat-center/threat-monitoring/threatdashboard.aspx
+
 Misc tools:
 -----------------------------------------
 Name: Submarine Cable Map
