@@ -15,17 +15,17 @@ Description: InfraGard is a partnership between the Federal Bureau of Investigat
 Link: https://www.infragard.org/
 
 Name: Cloud Security Alliance
-Description:
-Link: 
+Description: he Cloud Security Alliance (CSA) is the world’s leading organization dedicated to defining and raising awareness of best practices to help ensure a secure cloud computing environment.
+Link: https://cloudsecurityalliance.org/
 
 Name: ISACA
 Description: ISACA is an international professional association focused on IT governance. On its IRS filings, it is known as the Information Systems Audit and Control Association, although ISACA now goes by its acronym only.
 Link:
 
 Name: I.E.E.E Institute of Electrical and Electronics Engineers
-Description:
+Description: IEEE and its members inspire a global community through highly-cited publications, conferences, technology standards, and professional and educational activities.
 Link: https://www.ieee.org
 
 Name: Microsoft Technet
-Description:
+Description: Microsoft TechNet was a Microsoft web portal and web service for IT professionals.
 Link: https://docs.microsoft.com/en-us/?redirectedfrom=MSDN
