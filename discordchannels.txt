@@ -5,21 +5,29 @@ Description: Links to misc security discord channels
 Provided by: Jay Jay Davey & https://noxcyber.co.uk/ 
 
 Name: ** SecurityBlueTeam **
-Description: 
+Description: SecurityBlueTeam
 Link: https://lnkd.in/dHXwmRT
 
 Name: ** Cyber Warrior Studios **
-Description: 
+Description: Cyber Warrior Studios
 Link: https://lnkd.in/dDUnU8H
 
 Name: ** CyberJobs **
-Description: 
+Description: CyberJobs
 Link: https://lnkd.in/duQj_Bt
 
 Name: ** Unofficial Rangeforce Community**
-Description: 
+Description: Unofficial Rangeforce Community
 Link: https://lnkd.in/dyvU3Tn
 
 Name: ** Cyber Security Intelligence Exchange **
-Description: 
+Description: Cyber Security Intelligence Exchange
 Link: https://lnkd.in/dgrwCnN
+
+Name: TechnicalCyberSolutions
+Description: Twitch Channel for Jay Jay Daveys
+Link: https://twitch.tv/technicalcybersolutions
+
+Name: Discord Cyber Security Board
+Description: Discord Cyber Security Board
+Link: https://disboard.org/servers/tag/cybersecurity
