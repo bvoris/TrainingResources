@@ -27,6 +27,10 @@ Name: Fortinet
 Description: Fortinet firewalls
 Link: https://www.youtube.com/channel/UCJHo4AuVomwMRzgkA5DQEOA
 
+Name: Cybersecurity Meg
+Description: Cybersecurity Channel
+Link: https://www.youtube.com/channel/UCQiE6iIQr9bNSFaYcFgFYGw
+
 Name: Krebs on Security
 Description: Krebs on Security
 Link: https://www.youtube.com/channel/UCkN47Orx3Zs0tMqxToeXe5g
