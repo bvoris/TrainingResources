@@ -31,3 +31,7 @@ Link: https://twitch.tv/technicalcybersolutions
 Name: Discord Cyber Security Board
 Description: Discord Cyber Security Board
 Link: https://disboard.org/servers/tag/cybersecurity
+
+Name: TryHackMe Discord Channel
+Description: TryHackMe Discord Channel
+Link: https://discord.com/invite/tryhackme
