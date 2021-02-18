@@ -60,6 +60,10 @@ Name: IBM Cloud
 Description: IBM Cloud
 Link: https://www.youtube.com/channel/UCKWaEZ-_VweaEx1j62do_vQ
 
+Name: Day Cyberwox
+Description: Hey there! 👋🏾 Welcome to my channel. My name is Day⚡️and I’m on a journey to becoming a Cybersecurity professional👨🏾‍💻. On this channel, I take you along with me on that journey🛣. Subscribe and follow along as we learn and grow together!😁
+Link: https://youtube.com/c/DayCyberwox
+
 Hardware and Systems Videos
 -----------------------------------------
 Name: NetwortedMinds - Microsoft Server Training Videos
