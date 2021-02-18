@@ -8,12 +8,21 @@ Description: College Courses by Phillip Wylie
 Link: https://www.youtube.com/playlist?list=PLrentPLOUQnJxPIJy6XlLMgd3mLl3KRn2
 
 Name: Data Protection Diaries
-Description: 
+Description: Data Protection Diaries
 Link: https://www.youtube.com/channel/UCBSXiWErH8-J0jc1_42ERIA
 
 Name: Null Byte Channel - Red teaming, Penetration testing and hacking
-Description: 
+Description: Red teaming, Penetration testing and hacking
 Link: https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g
+
+Name: InfoSec Pat Security Insights Channgel
+Description: Join me and we will learn Information Security and more! I'm still learning myself but like to share knowledge in an easily watchable fashion!
+Link: https://www.youtube.com/channel/UCYuizWN2ac4L7CZ-WWHZQKw?app=desktop
+
+Name: Mariem Buenaventura
+Description: I think routers and switches are sexy especially when it's in a 42U server rack with super clean cable management. 
+Help me build stuff and practice labs! 
+Link: https://www.youtube.com/channel/UCapqiRi8MiKIPgRHkkFvZPQ
 
 Name: Brad Voris Youtube Channel 
 Description: 
