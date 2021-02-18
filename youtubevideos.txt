@@ -3,6 +3,10 @@ Collection of Youtube Training Videos and Channels
 
 Cyber Security and Information Security Videos
 -----------------------------------------
+Name: Ethical Hacking and Defense System
+Description: College Courses by Phillip Wylie
+Link: https://www.youtube.com/playlist?list=PLrentPLOUQnJxPIJy6XlLMgd3mLl3KRn2
+
 Name: Data Protection Diaries
 Description: 
 Link: https://www.youtube.com/channel/UCBSXiWErH8-J0jc1_42ERIA
@@ -22,6 +26,10 @@ Link: https://www.youtube.com/channel/UC849gFVzg2rL_ImWqQ1ePIA
 Name: Hak5
 Description: Founded in 2005, Hak5's mission is to advance the InfoSec industry. We do this through our award winning podcasts, leading pentest gear, and inclusive community – where all hackers belong.
 Link: https://www.youtube.com/channel/UC3s0BtrBJpwNDaflRSoiieQ
+
+Name: Cyber Insecurity
+Description: Cyber Insecurity is a stream dedicated to all things cybersecurity. Its meant for hackers, blue teamers, threat hunters - or anyone. Its designed to be a way to bring the conversation up another level and include all disciplines and skill levels. We'll still talk about mimikatz and responder too.
+Link: https://www.twitch.tv/cyber_insecurity
 
 Name: Fortinet
 Description: Fortinet firewalls
