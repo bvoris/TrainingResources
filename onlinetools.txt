@@ -100,6 +100,12 @@ Name: Security Headers
 Description: Scan your website for misconfigurations
 Link: https://securityheaders.com/
 
+Cloud Security tools:
+-----------------------------------------
+Name: Cloud Sec Docs
+Description: Cloud Security Documentation spanning multiple CSPs
+Link: https://cloudsecdocs.com/
+
 Misc tools:
 -----------------------------------------
 Name: Submarine Cable Map
