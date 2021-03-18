@@ -72,6 +72,10 @@ Name: Mental Outlaw
 Description: I make videos about stuff.
 Link: https://www.youtube.com/channel/UC7YOGHUfC1Tb6E4pudI9STA
 
+Name: Simply Cyber
+Description: Simply Cyber brings Information security related content to help IT or Information Security professionals take their career further, faster. Current cyber security industry topics and techniques are explored to promote a career in the field. Topics cover offense, defense, governance, risk, compliance, privacy, education, certification, conferences; all with the intent of professional development. 
+Link: https://www.youtube.com/channel/UCG-48Ki-b6W_siaUkukJOSw
+
 Hardware and Systems Videos
 -----------------------------------------
 Name: NetwortedMinds - Microsoft Server Training Videos
