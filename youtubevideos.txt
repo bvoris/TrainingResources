@@ -19,6 +19,10 @@ Name: InfoSec Pat Security Insights Channgel
 Description: Join me and we will learn Information Security and more! I'm still learning myself but like to share knowledge in an easily watchable fashion!
 Link: https://www.youtube.com/channel/UCYuizWN2ac4L7CZ-WWHZQKw?app=desktop
 
+Name: Cyber Insecurity
+Description: Cyber Insecurity is a digest of relevant and timely cybersecurity news stories, career information, and discussion about topics spanning a wide range of topics.  The channel runs three times a week, features industry professionals giving their commentary on industry hot topics and trends.
+Link: https://www.youtube.com/channel/UCL4JGzitDkX5TOwzs9A02Kg
+
 Name: Mariem Buenaventura
 Description: I think routers and switches are sexy especially when it's in a 42U server rack with super clean cable management. 
 Help me build stuff and practice labs! 
