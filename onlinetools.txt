@@ -106,6 +106,16 @@ Name: Cloud Sec Docs
 Description: Cloud Security Documentation spanning multiple CSPs
 Link: https://cloudsecdocs.com/
 
+Digital Forensic & Incident Response (DFIR) Security tools:
+-----------------------------------------
+Name: DFIR Awesome Incident Response Tools
+Description: DFIR Awesome Incident Response Tools
+Link: https://github.com/meirwah/awesome-incident-response
+
+Name: Autopsy
+Description: DFIR Opensource Toolkit
+Link: https://www.sleuthkit.org/autopsy/
+
 Misc tools:
 -----------------------------------------
 Name: Submarine Cable Map
