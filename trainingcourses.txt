@@ -89,6 +89,9 @@ Link: https://github.com/bvoris/CISSPTraining
 Name: CCSKTraining - My repo for CCSK Training Material
 Link: https://github.com/bvoris/CCSKTraining
 
+Name: CCAKTraining - My repo for CCAK Training Material
+Link: https://github.com/bvoris/CCAKTraining
+
 Name: FedVTE Federal Virtual Training Environment
 Link: https://fedvte.usalearning.gov/
 
@@ -97,3 +100,9 @@ Link: https://training.fema.gov/is/crslist.aspx
 
 Name: RangeForce
 Link: https://www.rangeforce.com
+
+Name: Autopsy Digital Forensics and Incident Response (DFIR) Training
+Link: https://www.cybertriage.com/training/?utm_source=autopsyrelease
+
+Name: Blackhat Webcasts
+Link: https://www.blackhat.com/html/webcast/webcast-home.html
