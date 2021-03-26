@@ -37,6 +37,9 @@ Link: https://github.com/bvoris/TrainingResources/blob/main/affiliationorganizat
 Name: Online Tools and Resources<BR />
 Description: various online tools for networking, security, etc.<BR />
 Link: https://github.com/bvoris/TrainingResources/blob/main/onlinetools.txt<BR /><BR />
+Name: Cyber Security Acronyms<BR />
+Description: various industry standard cyber security acronyms<BR />
+Link:  https://github.com/bvoris/TrainingResources/blob/main/acronyms.txt
 
 # Special Thanks to the following for providing content:<BR />
 NoxCyber<BR />
