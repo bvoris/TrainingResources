@@ -46,6 +46,9 @@ Link:  https://github.com/bvoris/TrainingResources/blob/main/acronyms.txt
 Mazzi Muzamiru<BR />
 https://www.linkedin.com/in/mazzi-muzamiru-219058106/<BR /><BR />
 
+The Watch Code<BR />
+https://thewatchcode.com/<BR /><BR />
+
 NoxCyber<BR />
 https://noxcyber.co.uk/<BR /><BR />
 
