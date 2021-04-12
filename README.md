@@ -42,6 +42,10 @@ Description: various industry standard cyber security acronyms<BR />
 Link:  https://github.com/bvoris/TrainingResources/blob/main/acronyms.txt
 
 # Special Thanks to the following for providing content:<BR />
+
+Mazzi Muzamiru<BR />
+https://www.linkedin.com/in/mazzi-muzamiru-219058106/<BR /><BR />
+
 NoxCyber<BR />
 https://noxcyber.co.uk/<BR /><BR />
 
