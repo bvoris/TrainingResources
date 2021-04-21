@@ -10,6 +10,10 @@ Link: https://docs.microsoft.com/en-us/learn/
 Name: ITILTraining - My repo for ITIL Training Material
 Link: https://github.com/bvoris/ITILTraining
 
+Name: AWS Training and Certification
+Description: AWS Training and Certification
+Link: https://aws.amazon.com/training/
+
 Firewall Training Courses
 -----------------------------------------
 Name: Sophos Firewall Academy Series
