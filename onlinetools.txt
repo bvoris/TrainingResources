@@ -24,9 +24,9 @@ Name: Akamai Real Time Threat Monitor
 Description: This real-time visualization shows the phishing, malware, and command & control threats that Akamai is blocking (for customers) through its Intelligent Platform and its unprecedented insights into DNS and IP traffic.
 Link: https://www.akamai.com/us/en/resources/visualizing-akamai/
 
-Name: UltraTools
-DescriptionL: Free Domain, DNS, Whois and IP tool kit
-Link: https://www.ultratools.com/
+Name: DNS Checker
+Description : DNS checking tool, also checks replication online of records.
+Link: https://dnschecker.org/
 
 Name: Pingdom Website Speed Test
 Description: Enter a URL to test the page load time, analyze it, and find bottlenecks.
