@@ -110,3 +110,7 @@ Link: https://www.cybertriage.com/training/?utm_source=autopsyrelease
 
 Name: Blackhat Webcasts
 Link: https://www.blackhat.com/html/webcast/webcast-home.html
+
+Name: SANS Summits (Virtual)
+Description: Annual SANS Virtual Summits
+Link: https://www.sans.org/cyber-security-summit/events
