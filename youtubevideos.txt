@@ -32,6 +32,10 @@ Name: Brad Voris Youtube Channel
 Description: My personal channel
 Link: https://www.youtube.com/channel/UCz2dFZDqAz6cnyEWRi3YiMQ
 
+Name: ISACA HQ
+Description: ISACA Headquarters
+Link: https://www.youtube.com/c/IsacaHq/
+
 Name: John Hammond
 Description: I post tutorials and videos on lots of programming languages. I'd like to share some of my knowledge with everyone, so try and spread the word about these unique and high quality video series!
 Link: https://www.youtube.com/c/JohnHammond010/videos
