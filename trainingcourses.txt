@@ -114,3 +114,7 @@ Link: https://www.blackhat.com/html/webcast/webcast-home.html
 Name: SANS Summits (Virtual)
 Description: Annual SANS Virtual Summits
 Link: https://www.sans.org/cyber-security-summit/events
+
+Name: Thor Teaches
+Description: We teach you the curriculum, how to study right, and how to approach exam question
+Link: https://thorteaches.com/
