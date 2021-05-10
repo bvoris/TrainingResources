@@ -49,8 +49,8 @@ https://www.linkedin.com/in/mazzi-muzamiru-219058106/<BR /><BR />
 The Watch Code<BR />
 https://thewatchcode.com/<BR /><BR />
 
-NoxCyber<BR />
-https://noxcyber.co.uk/<BR /><BR />
+Simply Cyber<BR />
+https://www.simplycyber.io/free-cyber-resources<BR /><BR />
 
 Jay Jay Davey<BR />
 https://www.linkedin.com/in/noxcyber/<BR /><BR />
