@@ -84,6 +84,14 @@ Name: Simply Cyber
 Description: Simply Cyber brings Information security related content to help IT or Information Security professionals take their career further, faster. Current cyber security industry topics and techniques are explored to promote a career in the field. Topics cover offense, defense, governance, risk, compliance, privacy, education, certification, conferences; all with the intent of professional development. 
 Link: https://www.youtube.com/channel/UCG-48Ki-b6W_siaUkukJOSw
 
+Name: Computerphile
+Description: Videos all about computers and computer stuff. Sister channel of Numberphile.
+Link: https://www.youtube.com/user/computerphile/videos
+
+Name: Professor Messer
+Description: rofessor Messer is the Internet's most comprehensive choice for CompTIA A+, Network+, Security+, and other IT certifications. All of Professor Messer's certification videos are posted online, and you can watch every minute of every video right here on YouTube.
+Link: https://www.youtube.com/user/professormesser
+
 Hardware and Systems Videos
 -----------------------------------------
 Name: NetwortedMinds - Microsoft Server Training Videos
